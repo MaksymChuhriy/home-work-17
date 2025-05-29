@@ -1,0 +1,7 @@
+@use "../abstracts" as *;
+
+html{
+    overflow-y:scroll;
+    font-family:$font-main;
+    font-size: $font-size;
+}
