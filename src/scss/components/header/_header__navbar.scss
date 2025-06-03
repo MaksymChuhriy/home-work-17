@@ -1,1 +1,7 @@
 @use "../../abstracts" as *;
+
+.header__navbar{
+    &-list{
+        @include visually-hidden;
+    }
+}
